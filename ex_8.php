@@ -20,8 +20,4 @@ foreach ($nomesOrdenados as $nome) {
     echo $nome . "<br>";
 }
 
-foreach ($nomesOrdenados as $nome){
-    echo "- $nome <br>";
-
-}
 ?>
